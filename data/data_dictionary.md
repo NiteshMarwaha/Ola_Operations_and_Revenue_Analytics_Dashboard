@@ -77,5 +77,5 @@
 ---
 
 ## Source
-
+['Download Link'](https://topvarsity.in/wp-content/uploads/2024/12/Bookings-100000-Rows.xlsx)
 Dataset generated via a structured ChatGPT prompt (see original project brief) rather than pulled from live OLA systems. Intended for learning and portfolio purposes only.
