@@ -1,6 +1,6 @@
 # 🚕 OLA Data Analyst Project — Bengaluru Ride Bookings Analysis
 
-An end-to-end data analytics project analyzing 1 month (July 2024) of OLA ride booking data for Bengaluru city, using **SQL** for data querying and **Power BI** for dashboarding and visualization.
+An end-to-end data analytics project analyzing 1 month (July 2026) of OLA ride booking data for Bengaluru city, using **SQL** for data querying and **Power BI** for dashboarding and visualization.
 
 ---
 
@@ -18,7 +18,7 @@ This project simulates a real-world data analyst workflow for a ride-hailing com
 | Attribute | Details |
 |---|---|
 | City | Bengaluru |
-| Time Period | July 1 – July 30, 2024 |
+| Time Period | July 1 – July 30, 2026 |
 | Total Records | ~99,952 bookings |
 | Format | CSV / SQL table |
 
@@ -114,13 +114,18 @@ Sample business questions answered via SQL (full queries in `/sql`):
 ola-data-analyst-project/
 ├── README.md
 ├── data/
-│   └── data_dictionary.md
+│   └── [`data_dictionary.md`](./data/data_dictionary.md)
 ├── sql/
-│   ├── create_views.sql
-│   └── sql_questions_answers.md
+│   ├── [`create_views.sql`](./sql/create_views.sql)
+│   └── [`sql_questions_answers.md`](./sql/sql_questions_answers.md)
 ├── powerbi/
-│   ├── OLA_Dashboard.pbix
+│   ├── ola.pbix
 │   └── screenshots/
+|       └── 1_ola_executive_summary.png
+|       └── 2_bookings_and_cancellation_analysis.png
+|       └── 3_revenue_analysis.png
+|       └── 4_operations_and_tat_analysis.png
+|       └── 5_ratings_and_customer_experience.png
 └── insights/
     └── key_findings.md
 ```
