@@ -114,10 +114,10 @@ Sample business questions answered via SQL (full queries in `/sql`):
 ola-data-analyst-project/
 ├── README.md
 ├── data/
-│   └── [`data_dictionary.md`](./data/data_dictionary.md)
+│   └── `data_dictionary.md`
 ├── sql/
-│   ├── [`create_views.sql`](./sql/create_views.sql)
-│   └── [`sql_questions_answers.md`](./sql/sql_questions_answers.md)
+│   ├── create_views.sql
+│   └── sql_questions_answers.md
 ├── powerbi/
 │   ├── ola.pbix
 │   └── screenshots/
